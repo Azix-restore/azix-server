@@ -1,4 +1,4 @@
-var config = require('../../config.js');
+var config = require('../config.js');
 var mongoose = require('mongoose');
 //var bcrypt = require('bcrypt');
 var timestamps = require('mongoose-timestamp');
